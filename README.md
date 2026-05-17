@@ -1,1 +1,3 @@
-# Netflix_SQL_project
+# Netflix TV Shows and Movies SQL Project
+
+![Netflix Logo]()
